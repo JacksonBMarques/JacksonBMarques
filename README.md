@@ -1,6 +1,6 @@
 
  
-### Olá! Eu sou Jackosn B Marques ✌️.
+### Olá! Eu sou Jackson B Marques ✌️.
 
 - 🌱 Eu atualmente estudo COBOL 
 - 📫 Como entrar em contato comigo: m.jbrenodev@outlook.com
