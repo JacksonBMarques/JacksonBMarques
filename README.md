@@ -5,4 +5,6 @@
  
 ![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(www.linkedin.com/in/jacksonbmarques))
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonBMarques&show_icons=true&theme=radical)
+![Anurag's GitHub stats][def]
+
+[def]: https://github-readme-stats.vercel.app/api?username=JacksonBMarques&show_icons=true&theme=radical
